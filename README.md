@@ -1,4 +1,7 @@
 # This is a test
-## This is also a test
-### This is another test
-#### This is also another test
+<html>
+<head>
+<title>This is a test</title>
+<p align="center"><b>This is a test from the center"</b></p>
+</head>
+</html>
