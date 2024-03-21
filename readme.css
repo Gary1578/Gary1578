@@ -1,0 +1,10 @@
+*{box-sizing: border-box;}
+
+.content_wrapper{
+    margin: 0 auto;
+    background-color: dodgerblue;
+}
+h3{
+    text-align:center;
+    color:aliceblue;
+}

@@ -1,7 +1,10 @@
-# This is a test
 <html>
 <head>
-<title>This is a test</title>
-<p align="center"><b>This is a test from the center"</b></p>
+<link rel="stylesheet" type="text/css" href="readme.css"/>
+<body>
+<div class="content_wrapper">
+    <h3>Welcome to my Github<h3>
+</div>
+</body>
 </head>
 </html>
